@@ -87,47 +87,41 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
 
 ## 📌 Featured Projects
 
-### 📄 [CV Application (React)](https://github.com/Ibrahim-Ashraf-Saber/Project-CVApplication)  
-- Dynamic CV builder with add/edit/delete features  
-- Modular React components styled with Tailwind CSS  
+### 📄 [PharmaLink](https://github.com/MoZakeer/PharmaLink)  
+- An e-commerce website that enables pharmacies to place orders for medicines directly from pharmaceutical companies.
+- Modular JavaScrip styled with Tailwind CSS  
 - Local state management for smooth UX  
-🔗 [Live Demo](https://project-cv-application-beta.vercel.app/)
-
-### 🔄 [CRUD App (React)](https://github.com/Ibrahim-Ashraf-Saber/CRUD)  
-- Basic CRUD operations implemented in React  
-- User-friendly form and state handling  
-- Ideal for learning React fundamentals  
-🔗 [Live Demo](https://ibrahim-ashraf-saber.github.io/CRUD/)
+🔗 [Live Demo](https://mozakeer.github.io/PharmaLink/)
 
 ---
 
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="mailto:xxibrahimashrafxx@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:mohmedabdelnaser2004@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/ibrahim-ashraf-924520259/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/mohamed-abdelnaser-899262289/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://my-portfolio-opal-eta-57.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=webflow&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.youtube.com/@the-cybermind" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  <a href="https://x.com/Mo_Zakeer" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"
+    alt="X"
+  />
+</a>
 </p>
-
+<!--
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoZakeer&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+<img src="https://github.com/MoZakeer/MoZakeer/raw/main/dist/snake.svg" /></p>
 
 ---
+
 
 ## 🐍 Contribution Graph
 
 <br clear="both">
 
-<img src="https://github.com/MoZakeer/MoZakeer/raw/output/snake.svg" alt="Snake animation" />
-
+<img src="https://github.com/MoZakeer/MoZakeer/raw/output/snake.svg" />
 ---
+-->
